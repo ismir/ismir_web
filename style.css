@@ -8,17 +8,27 @@
 
 #header
 {
-    background: #4cc;
-    padding: 20px;
+    background: #fff;
+    padding: 10px;
 }
 
 #header h1 { margin: 0; }
 
-#navigation
+#spacer
 {
     float: left;
     width: 900px;
-    background: #333;
+    height: 20px;
+    background: #4cc;
+}
+
+#navigation
+{
+    clear: left;
+    float: left;
+    width: 160px;
+    background: #fff;
+    padding-bottom: 20px;
 }
 
 #navigation ul
@@ -30,31 +40,30 @@
 #navigation ul li
 {
     list-style-type: none;
-    display: inline;
+    /*display: inline;*/
 }
 
 #navigation li a
 {
     display: block;
-    float: left;
+    /*float: left;*/
     padding: 5px 10px;
-    color: #fff;
+    color: #222;
     text-decoration: none;
-    border-right: 1px solid #fff;
+    border-bottom: 1px solid #444;
 }
 
-#navigation li a:hover { background: #155; }
+#navigation li a:hover { background: #ccc; }
 
 #content-container
 {
     float: left;
     width: 900px;
-    background: #fff url(http://www.maxdesign.com.au/wp-content/uploads/layout-two-fixed-background.gif) repeat-y 100% 0;
+    background: #fff;  /* url(http://www.maxdesign.com.au/wp-content/uploads/layout-two-fixed-background.gif) repeat-y 100% 0;*/
 }
 
 #content
 {
-    clear: left;
     float: left;
     width: 560px;
     padding: 20px 0;
@@ -64,26 +73,29 @@
 
 #content h2 {
     margin: 0;
-    padding-top: 10px;
+    padding-top: 0px;
     }
 
-#aside
+/*#aside
 {
     float: right;
     width: 240px;
     padding: 20px 0;
     margin: 0 20px 0 0;
     display: inline;
-}
-
-#aside h3 { margin: 0; }
+    overflow: visible;
+    background: url(http://www.maxdesign.com.au/wp-content/uploads/layout-two-fixed-background.gif);
+}*/
+/*
+#aside h3 { margin: 0; }*/
 
 #footer
 {
     clear: both;
-    background: #ccc;
+    background: #ddd;
     text-align: right;
     padding: 20px;
+    padding-top: 10px;
     height: 1%;
 }
 

@@ -46,7 +46,6 @@
 #navigation li a
 {
     display: block;
-    /*float: left;*/
     padding: 5px 10px;
     color: #222;
     text-decoration: none;
@@ -59,7 +58,7 @@
 {
     float: left;
     width: 900px;
-    background: #fff;  /* url(http://www.maxdesign.com.au/wp-content/uploads/layout-two-fixed-background.gif) repeat-y 100% 0;*/
+    background: #fff;
 }
 
 #content
@@ -75,19 +74,6 @@
     margin: 0;
     padding-top: 0px;
     }
-
-/*#aside
-{
-    float: right;
-    width: 240px;
-    padding: 20px 0;
-    margin: 0 20px 0 0;
-    display: inline;
-    overflow: visible;
-    background: url(http://www.maxdesign.com.au/wp-content/uploads/layout-two-fixed-background.gif);
-}*/
-/*
-#aside h3 { margin: 0; }*/
 
 #footer
 {

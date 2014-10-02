@@ -89,3 +89,19 @@ body {
     font-size: 10pt;
     font-family: Helvetica, Arial, sans-serif;
 }
+
+table {
+    font-size: 10pt;
+    font-family: Helvetica, Arial, sans-serif;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+tr {
+  border-bottom: solid 1px black;
+}
+
+td, th {
+  border: solid 1px black;
+  padding: 4;
+}

@@ -10,6 +10,8 @@
 {
     background: #fff;
     padding: 10px;
+    float: left;
+    height: 92px;
 }
 
 #header h1 { margin: 0; }
@@ -18,8 +20,7 @@
 {
     float: left;
     width: 900px;
-    height: 20px;
-    background: #4cc;
+    height: 40px;
 }
 
 #navigation

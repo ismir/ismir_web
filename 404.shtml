@@ -29,10 +29,13 @@
 <div id="content">
 
 <h2>Ack! That's a 404 error.</h2>
-<p>Sorry, but the page you have requested cannot be found. Please contact the
-<a href="mailto:webmaster@ismir.net">webmaster</a> and pass along this information.
-</p>
-
+<p>Sorry, but the page you have requested cannot be found.</p>
+<p> Please contact the <a href="mailto:webmaster@ismir.net">webmaster</a> and pass along this information.</p>
+</br>
+</br>
+</br>
+</br>
+</br>
 <div id="footer">
 Copyright &copy; ISMIR, 2015
 </div>

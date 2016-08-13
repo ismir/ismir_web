@@ -76,14 +76,42 @@
     padding-top: 0px;
     }
 
-#footer
-{
+.div-left{
+    float:left;
+    padding-left:10px;
+}
+.div-right{
+    float:right;
+    padding-right:10px;
+}
+
+.footer-container{
     clear: both;
     background: #ddd;
-    text-align: right;
-    padding: 20px;
-    padding-top: 10px;
-    height: 1%;
+    height:56px;
+}
+
+.footer {
+    height:32px;
+}
+
+.footer li {
+    list-style-type:none;
+    float:left;
+    padding-left:16px;
+}
+
+.footer li:nth-child(1) {
+    text-decoration:none;
+    height:32px;
+    display:block;
+    padding-right: 15px;
+}
+
+.footer ul {
+    list-style-type:none;
+    /*padding:0px;*/
+    /*margin:0px;*/
 }
 
 body {

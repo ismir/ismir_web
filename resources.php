@@ -236,6 +236,21 @@
     </td>
     <td>[<a href="https://teachingmir.wikispaces.com/">link</a>]</td>
   </tr>
+  <tr>
+    <td>"This tutorial provides a survey of the field of Music Information Retrieval (MIR), that aims, among other things, at automatically extracting semantically meaningful information from various representations of music entities, such as audio, scores, lyrics, web pages or microblogs. The tutorial is designed for students, engineers, researchers, and data scientists who are new to MIR and want to get introduced to the field."
+    </td>
+    <td>[<a href="http://mtg.upf.edu/node/3556">link</a>]</td>
+  </tr>
+  <tr>
+    <td>An article that provides a MIR survey.
+    </td>
+    <td>[<a href="http://www.nowpublishers.com/article/Details/INR-042">link</a>]</td>
+  </tr>
+  <tr>
+    <td>A book on the "Fundamentals of Music Processing".
+    </td>
+    <td>[<a href="https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP">link</a>]</td>
+  </tr>
   </table>
   </br>
 

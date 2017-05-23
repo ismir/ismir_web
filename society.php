@@ -11,7 +11,7 @@
 <?php include 'navigation.php'; ?>
 <div id="content">
   <h2>About the Society</h2>
-  <p>The International Society of Music Information Retreival is a non-profit
+  <p>The International Society of Music Information Retrieval is a non-profit
   organization seeking to advance the access, organization, and understanding
   of music information. As a field, music information retrieval focuses on the
   research and development of computational systems to help humans

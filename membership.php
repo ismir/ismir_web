@@ -13,7 +13,7 @@
 
 <h2>Membership</h2>
 <p>
-As a non-profit organziation with nary a revenue stream, the society relies almost
+As a non-profit organization with nary a revenue stream, the society relies almost
 entirely on membership dues to cover operational costs.
 </br>
 </p>

@@ -1,44 +1,14 @@
 <html>
 <head>
-<link rel="stylesheet" href="./style.css" type="text/css"/>
-<title>The International Society of Music Information Retrieval</title>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-48096804-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+<?php include 'head.php'; ?>
 </head>
 
 <body>
 <div id="container">
-<div id="header">
-<h1>
-<a href="http://ismir.net">
-  <img src="img/ismir_04.png" alt="The International Society of Music Information Retrieval"
-       style="width:300px;margin-left:-48px; margin-bottom:-100px"></a>
-</h1>
-</div>
+<?php include 'header.php'; ?>
 <div id="spacer"><img src="img/barstaff.png" alt="staff2circuit" style="width:900px"></div>
 <div id="content-container">
-<div id="navigation">
-<ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="conferences.html">Previous Conferences</a></li>
-  <li><a href="http://www.informatik.uni-trier.de/~ley/db/conf/ismir/index.html" target="_blank">Proceedings</a></li>
-  <li><a href="resources.html">Resources</a></li>
-  <li><a href="society.html">About the Society</a></li>
-  <li><a href="stats.html">Membership and Paper Statistics</a></li>
-  <li><a href="wimir.html">Women in MIR</a></li>
-  <li><a href="http://transactions.ismir.net/">Transactions of the International Society for Music Information Retrieval</a></li>
-  <li><a href="membership.html">Membership</a></li>
-  <li><a href="contact.html">Contact</a></li>
-</ul>
-</div>
+<?php include 'navigation.php'; ?>
 
 <div id="content">
   <h2 id="resources">Resources</h2>
@@ -266,6 +236,21 @@
     </td>
     <td>[<a href="https://teachingmir.wikispaces.com/">link</a>]</td>
   </tr>
+  <tr>
+    <td>"This tutorial provides a survey of the field of Music Information Retrieval (MIR), that aims, among other things, at automatically extracting semantically meaningful information from various representations of music entities, such as audio, scores, lyrics, web pages or microblogs. The tutorial is designed for students, engineers, researchers, and data scientists who are new to MIR and want to get introduced to the field."
+    </td>
+    <td>[<a href="http://mtg.upf.edu/node/3556">link</a>]</td>
+  </tr>
+  <tr>
+    <td>An article that provides a MIR survey.
+    </td>
+    <td>[<a href="http://www.nowpublishers.com/article/Details/INR-042">link</a>]</td>
+  </tr>
+  <tr>
+    <td>A book on the "Fundamentals of Music Processing".
+    </td>
+    <td>[<a href="https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP">link</a>]</td>
+  </tr>
   </table>
   </br>
 
@@ -415,16 +400,7 @@
   </br>
 
 </div>
-
-<div class="footer-container">
-  <div class="div-right">
-  <ul class="footer">
-    <li>Copyright &copy; ISMIR, 2016</li>
-    <li><a href="https://github.com/ismir/ismir_web">
-      <img src="img/GitHub-Mark-32px.png" alt="The International Society of Music Information Retrieval"></a></li>
-  </ul></div>
-</div>
-
+<?php include 'footer.php'; ?>
 </div>
 </div>
 </body>

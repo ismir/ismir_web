@@ -39,7 +39,7 @@
 
   <h3>Organizing Documents</h3>
   <ul>
- <li><a href="Call4Hosting-ISMIR-0.7.pdf">Conference Hosting Proposal Guide</a></li>
+ <li><a href="Call4Hosting-ISMIR-0.8.pdf">Conference Hosting Proposal Guide</a></li>
  <li><a href="ISMIR-Letters-Patent.pdf">Letters Patent</a></li>
  <li><a href="ISMIR-Bylaws.pdf">By-Laws</a></li>
 </ul>

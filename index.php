@@ -61,6 +61,12 @@ Between conferences, there are multiple ways to stay involved!
     in taking a more active role in building a better support system, improving
     visibility, and ultimately creating a better environment for women in MIR.</p>
   </li>
+  <li>
+    <a href="https://slackpass.io/mircommunity">Talk with the community on Slack</a>
+    <p>
+      Slack is a new way to chat and to gather a community. There are currently more than 381 people on the Music Information Retrieval Slack's channel, come and join us to stay tuned.
+    </p>
+  </li>
 </ul>
 </br>
 </p>

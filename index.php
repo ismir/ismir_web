@@ -15,7 +15,7 @@
 <p>
 <ul>
   <li><a href="https://ismir2017.smcnus.org">ISMIR 2017</a>, 23-28 October 2017, Suzhou (China)</li>
-  <li>ISMIR 2018, 23-27 Octobetr 2018, Paris (France)</li>
+  <li>ISMIR 2018, 23-27 October 2018, Paris (France)</li>
   <li>ISMIR 2019, Delft (The Netherlands)</li>
 </ul>
 </br>

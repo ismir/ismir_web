@@ -1,6 +1,6 @@
 <div id="navigation">
 <ul>
-  <li><a href="index.html">Home</a></li>
+  <li><a href="index.php">Home</a></li>
   <li><a href="conferences.php">Previous Conferences</a></li>
   <li><a href="http://www.informatik.uni-trier.de/~ley/db/conf/ismir/index.html" target="_blank">Proceedings</a></li>
   <li><a href="resources.php">Resources</a></li>

@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="./style.css" type="text/css"/>
 <title>The International Society of Music Information Retrieval</title>
 <script>

@@ -26,6 +26,14 @@
   their unique mark on the conference, and the greater society is continually
   experimenting and improving upon the event.
 </p>
+<p>
+  The open exchange of ideas and respectful, harassment-free scientific debate are
+  central to ISMIR. In their application, conference organisers must agree in writing
+  with the code-of-conduct detailed on
+  <a href=http://confcodeofconduct.com/>http://confcodeofconduct.com/</a>. They must
+  also agree to publish it on the conference website, and to enforce it throughout
+  the conference.
+</p>
 
 <h2>Past Conferences</h2>
 <ul>

@@ -53,6 +53,8 @@
   </ul>
 
   <h3>Officers (2016-2017)</h3>
+  Descriptions of individual board members' responsibilities are found in
+  <a href="https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRPzFmgBBubCVtU7mVS4aMjtjT_Xl5P3yayNje3Uzfnl8amZ9Zywo65siId02jQ0N/pub">this document</a>.
 <ul>
  <li><b>President</b>: Fabien Gouyon, Pandora, USA</li>
  <li><b>President-elect</b>: Emilia G&oacute;mez, Universitat Pompeu Fabra, Barcelona</li>

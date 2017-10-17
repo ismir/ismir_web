@@ -51,7 +51,7 @@
     <td>
       <b>jAudio</b> is a Java based stand alone application with a Graphic User Interface (GUI) and a Command Line Interface (CLI), which can batch process and outputs XML and ARFF formats.
     </td>
-    <td>[<a href="pastelinkhere">link</a>]</td>
+    <td>[<a href="http://jaudio.sourceforge.net/">link</a>]</td>
   </tr>
   <tr>
     <td><b>jMIR</b> is an open-source software suite implemented in Java for use in
@@ -75,7 +75,7 @@
       <br>
       <i>J. Bullock and U. Conservatoire, Libxtract: A lightweight library for audio feature extraction, in Proceedings of the International Computer Music Conference, 2007, vol. 43.</i>
     </td>
-    <td>[<a href="pastelinkhere">link</a>]</td>
+    <td>[<a href="http://jamiebullock.github.io/LibXtract/documentation/">link</a>]</td>
   </tr>
   <tr>
     <td>
@@ -83,7 +83,7 @@
       <br>
       <i>G. Tzanetakis and P. Cook, Marsyas: A framework for audio analysis, Organised sound, vol. 4, no. 03, pp. 169175, 2000.</i>
     </td>
-    <td>[<a href="pastelinkhere">link</a>]</td>
+    <td>[<a href="http://marsyas.info/">link</a>]</td>
   </tr>
   <tr>
     <td>
@@ -92,7 +92,7 @@ MIR
       <br>
       <i>H. Rawlinson, N. Segal, and J. Fiala, Meyda: an audio fea- ture extraction library for the web audio api, in Web Audio Conference.Web Audio Conference, 2015.</i>
     </td>
-    <td>[<a href="pastelinkhere">link</a>]</td>
+    <td>[<a href="https://meyda.surge.sh/">link</a>]</td>
   </tr>
   <tr>
     <td>
@@ -100,7 +100,7 @@ MIR
       <br>
       <i>O. Lartillot and P. Toiviainen, A matlab toolbox for musical feature extraction from audio, in International Conference on Digital Audio Effects, 2007, pp. 237244.</i>
     </td>
-    <td>[<a href="pastelinkhere">link</a>]</td>
+    <td>[<a href="https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mirtoolbox">link</a>]</td>
   </tr>
   <tr>
     <td><b>Similarity Matrix (SM) Toolbox</b> - MATLAB implementations for computing
@@ -120,7 +120,7 @@ MIR
       <br>
       <i>G. Peeters, B. L. Giordano, P. Susini, N. Misdariis, and S. McAdams, The timbre toolbox: Extracting audio descriptors from musical signals, The Journal of the Acoustical Society of America, vol. 130, no. 5, pp. 29022916, 2011.</i>
     </td>
-    <td>[<a href="pastelinkhere">link</a>]</td>
+    <td>[<a href="https://sourceforge.net/projects/matimbre/">link</a>]</td>
   </tr>
   <tr>
     <td><b>Time-scale Modification (TMS) Toolbox</b> - MATLAB implementations of
@@ -135,7 +135,7 @@ MIR
       <br>
       <i>B. Mathieu, S. Essid, T. Fillon, J. Prado, and G. Richard, YAAFE, an easy to use and efficient audio feature extraction software., in ISMIR, 2010, pp. 441446.</i>
     </td>
-    <td>[<a href="pastelinkhere">link</a>]</td>
+    <td>[<a href="http://yaafe.github.io/Yaafe/">link</a>]</td>
   </tr>
   </table>
   </br>

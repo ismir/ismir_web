@@ -90,7 +90,7 @@
   <tr>
     <td>
       <a href="http://www.labri.fr/">Laboratoire Bordelais de Recherche en Informatique (LaBRI)</a> and
-      <a href="http://www.scrime.labri.fr/">Studio de Création Musical (SCRIME)</a>
+      <a href="http://www.scrime.labri.fr/">Studio de CrÃ©ation Musical (SCRIME)</a>
       <br>
       These two laboratories are part of the french CNRS and are located in Bordeaux. The first research interest implies music information retrieval for enhancing music recommendations and automatic playlist creation. The second research interest involve creating new ways to play music interactively which is supported in the free and open-source intermedia sequencer <a href="https://i-score.org/">i-score</a>. 
     </td>

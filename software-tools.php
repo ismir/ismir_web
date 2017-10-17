@@ -26,7 +26,7 @@
     <td>
       <b>aubio</b> is a tool designed for the extraction of annotations from audio signals. Its features include segmenting a sound file before each of its attacks, performing pitch detection, tapping the beat and producing midi streams from live audio. It is written in C and has a Python interface.
       <br>
-      <i>P. M. Brossier, “The aubio library at MIREX 2006,” MIREX 2006, p. 1, 2006.</i>
+      <i>P. M. Brossier, Â“The aubio library at MIREX 2006,Â” MIREX 2006, p. 1, 2006.</i>
     </td>
     <td>[<a href="https://aubio.org/">link</a>]</td>
   </tr>
@@ -43,7 +43,7 @@
         developed by the Music Technology Group in Universitat Pompeu Fabra.
         Essentia was awarded with the Open-Source Competition of ACM Multimedia in 2013.
         <br>
-        <i>D. Bogdanov, N. Wack, E. Gómez, S. Gulati, P. Herrera, O. Mayor, G. Roma, J. Salamon, J. R. Zapata, and X. Serra, “Essentia: An audio analysis library for music information retrieval.,” in ISMIR, 2013, pp. 493–498.</i>
+        <i>D. Bogdanov, N. Wack, E. GÃ³mez, S. Gulati, P. Herrera, O. Mayor, G. Roma, J. Salamon, J. R. Zapata, and X. Serra, Â“Essentia: An audio analysis library for music information retrieval.,Â” in ISMIR, 2013, pp. 493Â–498.</i>
     </td>
     <td>[<a href="http://essentia.upf.edu/">link</a>]</td>
   </tr>
@@ -65,7 +65,7 @@
   <tr>
     <td><b>LibRosa</b> is a python package for music and audio processing.
     <br>
-    <i>B. McFee, M. McVicar, C. Raffel, D. Liang, and D. Repetto, “librosa: v0.3.1,” Nov. 2014.</i>
+    <i>B. McFee, M. McVicar, C. Raffel, D. Liang, and D. Repetto, Â“librosa: v0.3.1,Â” Nov. 2014.</i>
     </td>
     <td>[<a href="https://github.com/bmcfee/librosa/">link</a>]</td>
   </tr>
@@ -73,7 +73,7 @@
     <td>
       <b>Libxtract</b> can extract low level features in real time. It is written in C, Max-MSP, Pure Data, Super Collider and Vamp.
       <br>
-      <i>J. Bullock and U. Conservatoire, “Libxtract: A lightweight library for audio feature extraction,” in Proceedings of the International Computer Music Conference, 2007, vol. 43.</i>
+      <i>J. Bullock and U. Conservatoire, Â“Libxtract: A lightweight library for audio feature extraction,Â” in Proceedings of the International Computer Music Conference, 2007, vol. 43.</i>
     </td>
     <td>[<a href="pastelinkhere">link</a>]</td>
   </tr>
@@ -81,7 +81,7 @@
     <td>
       <b>Marsyas</b> is a full real time feature extraction tool usable via a command line interface or a graphic user interface. It is written in C++ and Vamp and proposed a SVM machine learning algorithm.
       <br>
-      <i>G. Tzanetakis and P. Cook, “Marsyas: A framework for audio analysis,” Organised sound, vol. 4, no. 03, pp. 169–175, 2000.</i>
+      <i>G. Tzanetakis and P. Cook, Â“Marsyas: A framework for audio analysis,Â” Organised sound, vol. 4, no. 03, pp. 169Â–175, 2000.</i>
     </td>
     <td>[<a href="pastelinkhere">link</a>]</td>
   </tr>
@@ -90,7 +90,7 @@
       <b>Meyda</b> can extract low level feature. It is written in Javascript and so is aimed toward web-based and real time applications.
 MIR
       <br>
-      <i>H. Rawlinson, N. Segal, and J. Fiala, “Meyda: an audio fea- ture extraction library for the web audio api,” in Web Audio Conference.Web Audio Conference, 2015.</i>
+      <i>H. Rawlinson, N. Segal, and J. Fiala, Â“Meyda: an audio fea- ture extraction library for the web audio api,Â” in Web Audio Conference.Web Audio Conference, 2015.</i>
     </td>
     <td>[<a href="pastelinkhere">link</a>]</td>
   </tr>
@@ -98,7 +98,7 @@ MIR
     <td>
       <b>MIR Toolbox</b> can extract low and high level audio features. It is written in Matlab and includes preprocessing, classification, similarity measures and clustering functionality.
       <br>
-      <i>O. Lartillot and P. Toiviainen, “A matlab toolbox for musical feature extraction from audio,” in International Conference on Digital Audio Effects, 2007, pp. 237–244.</i>
+      <i>O. Lartillot and P. Toiviainen, Â“A matlab toolbox for musical feature extraction from audio,Â” in International Conference on Digital Audio Effects, 2007, pp. 237Â–244.</i>
     </td>
     <td>[<a href="pastelinkhere">link</a>]</td>
   </tr>
@@ -118,7 +118,7 @@ MIR
     <td>
       <b>Timbre Toolbox</b> is a Matlab toolbox for low and high level feature extraction.
       <br>
-      <i>G. Peeters, B. L. Giordano, P. Susini, N. Misdariis, and S. McAdams, “The timbre toolbox: Extracting audio descriptors from musical signals,” The Journal of the Acoustical Society of America, vol. 130, no. 5, pp. 2902–2916, 2011.</i>
+      <i>G. Peeters, B. L. Giordano, P. Susini, N. Misdariis, and S. McAdams, Â“The timbre toolbox: Extracting audio descriptors from musical signals,Â” The Journal of the Acoustical Society of America, vol. 130, no. 5, pp. 2902Â–2916, 2011.</i>
     </td>
     <td>[<a href="pastelinkhere">link</a>]</td>
   </tr>
@@ -133,7 +133,7 @@ MIR
     <td>
       <b>YAAFE</b> is a Low level feature extraction library designed for computational efficiency and batch processing. It is written in C++ and can be used with Python and Matlab.
       <br>
-      <i>B. Mathieu, S. Essid, T. Fillon, J. Prado, and G. Richard, “YAAFE, an easy to use and efficient audio feature extraction software.,” in ISMIR, 2010, pp. 441–446.</i>
+      <i>B. Mathieu, S. Essid, T. Fillon, J. Prado, and G. Richard, Â“YAAFE, an easy to use and efficient audio feature extraction software.,Â” in ISMIR, 2010, pp. 441Â–446.</i>
     </td>
     <td>[<a href="pastelinkhere">link</a>]</td>
   </tr>

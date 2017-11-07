@@ -38,6 +38,11 @@
 <h2>Past Conferences</h2>
 <ul>
 <li>
+  <a href="https://ismir2017.smcnus.org/">ISMIR 2017</a>,
+      23-27 October 2017, Suzhou (China)
+      [<a href="https://ismir2017.smcnus.org/proceedings/">proceedings</a>]
+</li>
+<li>
   <a href="http://ismir2016.ismir.net/">ISMIR 2016</a>,
       7-11 August 2016, New York City (USA)
       [<a href="http://dblp.uni-trier.de/db/conf/ismir/ismir2016.html">proceedings</a>]

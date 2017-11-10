@@ -129,6 +129,30 @@
 <h2>History of Awards</h2>
 <p>Historical information about awards has been collected from the community and may contain inaccuracies. If you'd like to suggest a correction or addition, please file an issue or pull request on <a href="https://github.com/ismir/ismir_web">GitHub</a>.</p>
 <ul>
+  <li>
+    <b>2017</b>
+    <ul>
+      <b>Best paper</b>: Keunwoo Choi, György Fazekas, Mark Sandler, and Kyunghyun Cho. <a href="http://dblp.uni-trier.de/rec/html/conf/ismir/ChoiFSC17">Transfer Learning for Music Classification and Regression Tasks</a>.
+    </ul>
+    <ul>
+      <b>Best student paper</b>: Rachel Bittner, Brian McFee, Justin Salamon, Peter Li, and Juan P. Bello. <a href="http://dblp.uni-trier.de/rec/html/conf/ismir/BittnerMSLB17">Deep Salience Representations for F0 Estimation in Polyphonic Music</a>.
+    </ul>
+    <ul>
+      <b>Best oral presentation</b>: Sergio Oramas, Oriol Nieto, Francesco Barbieri, and Xavier Serra. <a href="http://dblp.uni-trier.de/rec/bibtex/conf/ismir/OramasNBS17">Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features</a>.
+    </ul>
+    <ul>
+      <b>Best poster presentation</b>: Andreas Jansson, Eric J. Humphrey, Nicola Montecchio, Rachel Bittner, Aparna Kumar, and Tillman Weyde. <a href="http://dblp.uni-trier.de/rec/bibtex/conf/ismir/JanssonHMBKW17">Singing Voice Separation with Deep U-Net Convolutional Networks</a>.
+    </ul>
+    <ul>
+      <b>Best reviewer</b>: Gabriel Vigliensoni, McGill University.
+    </ul>
+    <ul>
+      <b>Best meta-reviewer:</b> Roger Dannenberg, Carnegie Mellon University.
+    </ul>
+    <ul>
+      <b>Outstanding service to the conference award</b>: Blair Kaneshiro, Stanford University; Douglas Turnbull, Ithaca College. 
+    </ul>
+  </li>
 <li>
 <b>2016</b>
 <ul>

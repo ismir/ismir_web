@@ -52,9 +52,21 @@
     <li><a href="doc/2014_business_meeting.pdf">2014</a></li>
   </ul>
 
-  <h3>Officers (2016-2017)</h3>
+  <h3>Officers (2018-2019)</h3>
   Descriptions of individual board members' responsibilities are found in
   <a href="https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRPzFmgBBubCVtU7mVS4aMjtjT_Xl5P3yayNje3Uzfnl8amZ9Zywo65siId02jQ0N/pub">this document</a>.
+<ul>
+ <li><b>President</b>: Emilia G&oacute;mez, Universitat Pompeu Fabra, Spain</li>
+ <li><b>President-elect</b>: Meinard M&uuml;ller, International Audio Laboratories</li>
+ <li><b>Secretary</b>: Eric J. Humphrey, Spotify, USA </li>
+ <li><b>Treasurer</b>: Bob Sturm, QMUL, UK</li>
+ <li><b>Member-at-large</b>: Geoffroy Peeters, IRCAM, France</li>
+ <li><b>Member-at-large</b>: Blair Kaneshiro, Stanford U., USA</li>
+ <li><b>Member-at-large</b>: Douglas Turnbull, Ithaca College</li>
+ <li><b>Student member</b>: Iris Yuping Ren, Utrecht U., Netherlands</li>
+</ul>
+ 
+ <h3>Officers (2016-2017)</h3>
 <ul>
  <li><b>President</b>: Fabien Gouyon, Pandora, USA</li>
  <li><b>President-elect</b>: Emilia G&oacute;mez, Universitat Pompeu Fabra, Barcelona</li>

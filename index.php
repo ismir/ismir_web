@@ -14,7 +14,7 @@
 <h2>Upcoming Conferences</h2>
 <p>
 <ul>
-  <li>ISMIR 2018, 23-27 September 2018, Paris (France)</li>
+  <li>ISMIR 2018, 23-27 September 2018, Paris (France); website: <a href="http://ismir2018.ircam.fr/">http://ismir2018.ircam.fr/</a></li>
   <li>ISMIR 2019, Delft (The Netherlands)</li>
 </ul>
 </br>

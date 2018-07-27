@@ -134,3 +134,19 @@ td, th {
   border: solid 1px black;
   padding: 4;
 }
+
+.proceedings-container {
+  width: 100%;
+}
+
+.proceedings-left {
+  width: 120px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.proceedings-right {
+  width:calc(100% - 130px);
+  display: inline-block;
+  vertical-align: top;
+}

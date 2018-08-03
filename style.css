@@ -146,7 +146,11 @@ td, th {
 }
 
 .proceedings-right {
-  width:calc(100% - 130px);
+  width: calc(100% - 130px);
   display: inline-block;
   vertical-align: top;
+}
+
+.bordered {
+  border: 1px solid black;
 }

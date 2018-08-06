@@ -11,9 +11,9 @@
       <div id="content-container">
         <?php include 'navigation.php'; ?>
         <div id="content">
-          <h2>Proceedings of ISMIR conferences</h2>
+          <h2>Proceedings of ISMIR Conferences</h2>
 
-          <p>Text.</p>
+          <p>The proceedings of all ISMIR conferences are listed at <a href="https://dblp.org/db/conf/ismir/" target="_blank">DBLP</a>. The individual articles (PDFs), which are publicly available on the respective conference websites, are linked by DBLP. This website contains the links to the conference websites as well as the PDFs of the full proceedings (if available).</p>
 
           <div class="proceedings-container">
             <div class="proceedings-left">
@@ -22,7 +22,7 @@
               </a>
             </div>
             <div class="proceedings-right">
-              <p>Xiao Hu, Sally Jo Cunningham, Doug Turnbull, and Zhiyao Duan<br/>
+              <p>Xiao Hu, Sally Jo Cunningham, Doug Turnbull, Zhiyao Duan<br/>
                 <a href="https://ismir2017.smcnus.org/programschedule/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2017</a><br/>
                 ISBN 978-0-692-75506-8<br/>
                 <a href="proceedings/2017_ISMIR_Proceedings.pdf">PDF</a>,
@@ -59,7 +59,7 @@
           </div>
           <div class="proceedings-container">
             <div class="proceedings-left">
-              <a href="proceedings/2014_ISMIR_Proceedings.pdf">x
+              <a href="proceedings/2014_ISMIR_Proceedings.pdf">
                 <img src="proceedings/2014_ISMIR_Proceedings_Cover.jpg" alt="2014_ISMIR_Proceedings_Cover.jpg" width="100" class="left bordered"/>
               </a>
             </div>
@@ -73,13 +73,13 @@
           </div>
           <div class="proceedings-container">
             <div class="proceedings-left">
-              <a href="proceedings/2012_ISMIR_Proceedings.pdf">
+              <a href="proceedings/2013_ISMIR_Proceedings.pdf">
                 <img src="proceedings/2013_ISMIR_Proceedings_Cover.jpg" alt="2013_ISMIR_Proceedings_Cover.jpg" width="100" class="left bordered"/>
               </a>
             </div>
             <div class="proceedings-right">
               <p>
-                Alceu de Souza Britto Jr., Fabien Gouyon, Simon Dixon:
+                Alceu de Souza Britto Jr., Fabien Gouyon, Simon Dixon
                 <br/>
                 <a href="http://ismir2013.ismir.net/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2013</a><br/>
                 ISBN 978-0-615-90065-0
@@ -95,7 +95,7 @@
               </a>
             </div>
             <div class="proceedings-right">
-              <p>Fabien Gouyon,Perfecto Herrera,Luis Gustavo Martins, Meinard Müller
+              <p>Fabien Gouyon, Perfecto Herrera, Luis Gustavo Martins, Meinard Müller
                 <br/>
                 <a href="http://ismir2012.ismir.net/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2012</a><br/>
                 ISBN 978-972-752-144-9<br/>
@@ -179,7 +179,7 @@
             </div>
             <div class="proceedings-right">
               <p>
-                Lemström, Kjell ; Tindale, Adam ; Dannenberg, Roger
+                Kjell Lemström, Adam Tindale, Roger Dannenberg
                 <br/>
                 <a href="http://ismir2006.ismir.net/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2006</a><br/>
                 ISBN 1-55058-349-2<br/>
@@ -192,7 +192,7 @@
             </div>
             <div class="proceedings-right">
               <p>
-                Reiss, Joshua D. ; Wiggins, Geraint A.
+                Joshua D. Reiss, Geraint A. Wiggins
                 <br/>
                 <a href="http://ismir2005.ismir.net/pdf.html" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2005</a><br/>
                 ISBN 0-9551179-0-9<br/>
@@ -204,7 +204,7 @@
               <img src="proceedings/2004_ISMIR_Proceedings_Cover.jpg" alt="2004_ISMIR_Proceedings_Cover.jpg" width="100" class="left bordered"/>
             </div>
             <div class="proceedings-right">
-              <p>Lomeli Buyoli, Claudia ; Loureiro, Ramon
+              <p>Claudia Lomeli Buyoli, Ramon Loureiro
                 <br/>
                 <a href="http://ismir2004.ismir.net/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2004</a><br/>
                 ISBN 84-88042-44-2<br/>
@@ -216,7 +216,7 @@
               <img src="proceedings/2003_ISMIR_Proceedings_Cover.jpg" alt="2003_ISMIR_Proceedings_Cover.jpg" width="100" class="left bordered"/>
             </div>
             <div class="proceedings-right">
-              <p>Hoos, Holger H. ; Bainbridge, David<br/>
+              <p>Holger H. Hoos, David Bainbridge <br/>
                 <a href="http://ismir2003.ismir.net/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2003</a><br/>
                 ISBN 2-9746194-0-1<br/>
                 <a href="https://dblp.org/db/conf/ismir/ismir2003" target="_blank">DBLP</a><br/></p>
@@ -227,7 +227,7 @@
               <img src="proceedings/2002_ISMIR_Proceedings_Cover.jpg" alt="2002_ISMIR_Proceedings_Cover.jpg" width="100" class="left bordered"/>
             </div>
             <div class="proceedings-right">
-              <p>Fingerhut, Michael<br/>
+              <p>Michael Fingerhut<br/>
                 <a href="http://ismir2002.ircam.fr/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2002</a><br/>
                 ISBN 2-8442-6166-3<br/>
                 <a href="https://dblp.org/db/conf/ismir/ismir2002" target="_blank">DBLP</a><br/></p>
@@ -240,7 +240,7 @@
               </a>
             </div>
             <div class="proceedings-right">
-              <p>Downie, Stephen ; Bainbridge, David<br/>
+              <p>Stephen Downie, David Bainbridge<br/>
                 <a href="http://ismir2001.ismir.net/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2001</a><br/>
                 <br/>
                 <a href="proceedings/2001_ISMIR_Proceedings.pdf">PDF</a>,
@@ -252,7 +252,7 @@
               <img src="proceedings/2000_ISMIR_Proceedings_Cover.jpg" alt="2000_ISMIR_Proceedings_Cover.jpg" width="100" class="left bordered"/>
             </div>
             <div class="proceedings-right">
-              <p>Byrd, Donald<br/>
+              <p>Donald Byrd<br/>
                 <a href="http://ismir2000.ismir.net/" target="_blank">Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2000</a><br/>
                 <br/>
                 <a href="https://dblp.org/db/conf/ismir/ismir2000" target="_blank">DBLP</a><br/></p>

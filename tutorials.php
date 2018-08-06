@@ -11,9 +11,9 @@
       <div id="content-container">
         <?php include 'navigation.php'; ?>
         <div id="content">
-          <h2>Tutorials at ISMIR conferences</h2>
+          <h2>Tutorials at ISMIR Conferences</h2>
 
-          <p>Text.</p>
+		  <p>This website provides links to all tutorials offered by previous ISMIR conferences.</p>
 
           <p>
             <a href="#year2018">2018</a>
@@ -102,6 +102,8 @@
               Meinard Müller, Christof Weiss<br/>
               <b>A basic introduction to audio-related music information retrieval</b><br/>
               <a href="https://ismir2017.smcnus.org/tutorials/#T1" target="_blank">Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2017</a>
+			  <br/>
+              <a href="https://www.audiolabs-erlangen.de/resources/MIR/2017_TutorialAudioMIR_ISMIR/" target="_blank">Website with Sources</a>, <a href="http://www.music-processing.de" target="_blank">Book</a>
             </li>
             <li>
               Andrew Demetriou, Audrey Laplante, Sally Jo Cunningham, Cynthia Liem<br/>
@@ -205,7 +207,12 @@
             <li>
               Meinard Müller, Jordan Smith<br/>
               <b>Musical structure analysis</b><br/>
-              <a href="http://www.terasoft.com.tw/conf/ismir2014/tutorialschedule.html" target="_blank">Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2014</a>
+              <a href="http://www.terasoft.com.tw/conf/ismir2014/tutorialschedule.html" target="_blank">Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2014</a><br/>
+			   <a href="https://www.audiolabs-erlangen.de/fau/professor/mueller/activities/2014_MuellerSmith_MusicStructure_Tutorial-ISMIR_Part-0_handouts.pdf">PDF of Part 0</a>,
+			   <a href="https://www.audiolabs-erlangen.de/fau/professor/mueller/activities/2014_MuellerSmith_MusicStructure_Tutorial-ISMIR_Part-1_handouts.pdf">PDF of Part 1</a>,
+			   <a href="https://www.audiolabs-erlangen.de/fau/professor/mueller/activities/2014_MuellerSmith_MusicStructure_Tutorial-ISMIR_Part-2_handouts.pdf">PDF of Part 2</a></li>
+			  
+			  
             </li>
             <li>
               Rafael Caro Repetto, Ajay Srinivasamurthy, Sankalp Gulati, Xavier Serra<br/>
@@ -234,13 +241,13 @@
             <li>
               Philippe Hamel, Eric J. Humphrey, Erik M. Schmid<br/>
               <b>Deep learning in MIR - Demystifying the dark art</b><br/>
-              Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2013
+              Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2013 <br/>
               <a href="https://marl.smusic.nyu.edu/wordpress/wp-content/papercite-data/pdf/ISMIR2013_Deep_Learning_Part1_Schmidt.pdf">PDF</a>
             </li>
             <li>
               Slim Essid<br/>
               <b>Conditional random fields with application to music analysis</b><br/>
-              Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2013
+              Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2013 <br/>
               <a href="https://perso.telecom-paristech.fr/essid/teach/CRF_tutorial_ISMIR-2013.pdf">PDF</a>
             </li>
           </ul>
@@ -369,7 +376,7 @@
             <li>
               Olivier Lartillot<br/>
               <b>Introduction to MIR Toolbox</b><br/>
-              Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2007
+              Tutorial of the International Society for Music Information Retrieval Conference (ISMIR), 2007 <br/>
               <a href="https://ismir2008.ismir.net/latebreak/lartillot.pdf">PDF</a>
             </li>
             <li>
